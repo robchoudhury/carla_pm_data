@@ -1,0 +1,552 @@
+region,site,date,pm_index,ascospore,incidence,severity,bot_incidence,bot_severity
+kern,vestal,4/17/1995,0,,0,0,0,0
+kern,vestal,4/28/1995,20,,0,0,0,0
+kern,vestal,5/11/1995,100,,0,0,0,0
+kern,vestal,5/25/1995,100,,0,0,0,0
+kern,vestal,5/31/1995,70,,56,0.01,0,0
+kern,vestal,6/8/1995,100,,72,0.15,0,0
+kern,vestal,6/16/1995,80,,75,0.78,0,0
+kern,vestal,6/22/1995,90,,100,4,0,0
+kern,vestal,6/29/1995,80,,100,4.6,0,0
+kern,vestal,7/7/1995,0,,100,3.9,0,0
+kern,vestal,7/13/1995,40,,100,5.6,,
+kern,vestal,7/21/1995,30,,100,5.3,0,0
+kern,vestal,7/28/1995,10,,100,3.7,0,0
+kern,vestal,8/11/1995,0,,100,0.78,0,0
+kern,vestal,8/18/1995,20,,100,0.8,0,0
+kern,vestal,8/24/1995,50,,100,0.15,0,0
+kern,vestal,8/29/1995,0,,98,0.25,0,0
+kern,west delano,4/14/1995,80,,0,0,0,0
+kern,west delano,4/26/1995,0,,0,0,0,0
+kern,west delano,5/10/1995,100,,0,0,0,0
+kern,west delano,5/19/1995,80,,1.25,0,0,0
+kern,west delano,5/31/1995,70,,7.5,0.03,0,0
+kern,west delano,6/5/1995,90,,2.5,0.004,0,0
+kern,west delano,6/14/1995,60,,43,0.55,0,0
+kern,west delano,6/21/1995,100,,80,0.36,0,0
+kern,west delano,6/28/1995,50,,100,2.7,0,0
+kern,west delano,7/6/1995,0,,100,2,0,0
+kern,west delano,7/12/1995,0,,100,2.1,0,0
+kern,west delano,7/19/1995,30,,100,2.2,0,0
+kern,west delano,7/26/1995,0,,100,1.3,0,0
+kern,west delano,8/8/1995,0,,100,0.72,0,0
+kern,west delano,8/15/1995,0,,100,0.28,2.5,2.6
+kern,west delano,8/23/1995,30,,100,0.28,5,0.1
+kern,west delano,8/30/1995,,,68,0.13,2.5,2.5
+kern,cecil,4/20/1995,0,,0,0,0,0
+kern,cecil,4/28/1995,20,,1.25,0,0,0
+kern,cecil,5/8/1995,60,,0,0,0,0
+kern,cecil,5/24/1995,100,,0,0,0,0
+kern,cecil,6/1/1995,40,,63,1.3,0,0
+kern,cecil,6/8/1995,80,,83,0.18,0,0
+kern,cecil,6/22/1995,60,,100,4.3,0,0
+kern,cecil,6/30/1995,0,,100,4.3,0,0
+kern,cecil,7/7/1995,0,,100,4.8,0,0
+kern,cecil,7/17/1995,10,,100,5.1,0,0
+kern,cecil,7/20/1995,0,,100,3.6,0,0
+kern,cecil,7/27/1995,0,,100,4.6,0,0
+kern,cecil,8/11/1995,0,,78,1.3,0,0
+kern,cecil,8/18/1995,20,,100,1.2,0,0
+kern,cecil,8/24/1995,60,,63,0.94,0,0
+kern,cecil,8/29/1995,10,,80,1.8,0,0
+kern,arvin,4/12/1995,100,,0,0,0,0
+kern,arvin,4/21/1995,10,,0,0,0,0
+kern,arvin,5/4/1995,40,,0,0,0,0
+kern,arvin,5/17/1995,60,,0,0,0,0
+kern,arvin,5/30/1995,80,,87.5,0.05,0,0
+kern,arvin,6/5/1995,20,,70,0.03,0,0
+kern,arvin,6/13/1995,30,,97.5,0.07,0,0
+kern,arvin,6/20/1995,90,,85,0.46,0,0
+kern,arvin,6/27/1995,70,,85,0.33,0,0
+kern,arvin,7/4/1995,60,,100,0.51,0,0
+kern,arvin,7/24/1995,60,,62.5,0.58,15,0.2
+kern,wheeler ridge,4/12/1995,100,,0,0,0,0
+kern,wheeler ridge,4/21/1995,20,,0,0,0,0
+kern,wheeler ridge,5/12/1995,100,,0,0,0,0
+kern,wheeler ridge,5/24/1995,100,,0,0,0,0
+kern,wheeler ridge,6/2/1995,50,,1.3,0.05,0,0
+kern,wheeler ridge,6/7/1995,90,,53,0.06,0,0
+kern,wheeler ridge,6/13/1995,60,,79,0.09,0,0
+kern,wheeler ridge,6/20/1995,100,,92,0.55,0,0
+kern,wheeler ridge,6/26/1995,100,,100,0.74,0,0
+kern,wheeler ridge,7/5/1995,60,,100,0.88,0,0
+kern,wheeler ridge,7/11/1995,80,,100,0.93,0,0
+kern,wheeler ridge,7/18/1995,90,,75,0.73,0,0
+kern,wheeler ridge,7/24/1995,30,,83,0.83,5,0.04
+kern,edison,4/13/1995,80,,1.3,0,0,0
+kern,edison,4/24/1995,10,,1.3,0,0,0
+kern,edison,5/5/1995,90,,0,0,0,0
+kern,edison,5/18/1995,70,,0,0,0,0
+kern,edison,6/2/1995,90,,53,0,0,0
+kern,edison,6/7/1995,70,,20,0,0,0
+kern,edison,6/15/1995,80,,38,0,0,0
+kern,edison,6/21/1995,100,,53,0.07,0,0
+kern,edison,6/27/1995,100,,55,0.03,0,0
+kern,edison,7/6/1995,80,,92,0.45,0,0
+kern,edison,7/11/1995,80,,78,0.32,0,0
+kern,edison,7/18/1995,100,,60,0.26,0,0
+kern,edison,7/25/1995,70,,48,0.41,5,0.05
+kern,lerdo,4/14/1995,90,,0,0,0,0
+kern,lerdo,4/27/1995,20,,0,0,0,0
+kern,lerdo,5/5/1995,90,,0,0,0,0
+kern,lerdo,5/23/1995,80,,0,0,0,0
+kern,lerdo,6/1/1995,90,,58,0.01,0,0
+kern,lerdo,6/9/1995,100,,70,0.14,0,0
+kern,lerdo,6/14/1995,60,,98,0.65,0,0
+kern,lerdo,6/19/1995,100,,95,1.1,0,0
+kern,lerdo,6/28/1995,70,,100,2.7,0,0
+kern,lerdo,7/8/1995,20,,98,2.1,0,0
+kern,lerdo,7/14/1995,60,,98,1.7,0,0
+kern,lerdo,7/25/1995,30,,65,1.2,5,5
+kern,lerdo,8/8/1995,90,,60,0.32,0,0
+kern,lerdo,8/15/1995,20,,38,0,0,0
+kern,lerdo,8/21/1995,10,,33,0,2.5,0.04
+kern,lerdo,8/28/1995,0,,40,0.07,0,0
+sonoma,gallo,6/19/1995,50,,0,0,0,0
+sonoma,gallo,6/26/1995,10,,0,0,0,0
+sonoma,gallo,7/3/1995,90,,0,0,0,0
+sonoma,gallo,7/11/1995,90,,0,0,0,0
+sonoma,gallo,7/21/1995,100,,3,1,0,0
+sonoma,gallo,7/26/1995,100,,0,0,0,0
+sonoma,gallo,8/1/1995,40,,0,0,0,0
+sonoma,gallo,8/8/1995,60,,0,0,0,0
+sonoma,gallo,8/15/1995,20,,0,0,0,0
+sonoma,gallo,8/22/1995,40,,0,0,0,0
+sonoma,gallo,8/29/1995,0,,0,0,0,0
+sonoma,gallo,9/12/1995,10,,0,0,35,6
+sonoma,srjc,6/26/1995,10,,7,1,0,0
+sonoma,srjc,7/3/1995,40,,68,1,0,0
+sonoma,srjc,7/11/1995,50,,78,2,0,0
+sonoma,srjc,7/18/1995,70,,98,3,2,3
+sonoma,srjc,7/27/1995,60,,91,1,5,8
+sonoma,srjc,8/9/1995,40,,90,1,0,0
+sonoma,srjc,8/16/1995,30,,63,2,0,0
+sonoma,srjc,8/25/1995,30,,59,7,0,0
+sonoma,srjc,9/1/1995,20,,63,2,0,0
+sonoma,srjc,9/15/1995,70,,71,4,10,5
+sonoma,kendall jackson,6/19/1995,0,,0,0,0,0
+sonoma,kendall jackson,6/26/1995,0,,10,2,0,0
+sonoma,kendall jackson,7/6/1995,40,,14,1,12,3
+sonoma,kendall jackson,7/11/1995,20,,21,2,12,3
+sonoma,kendall jackson,7/18/1995,40,,38,3,12,7
+sonoma,kendall jackson,7/27/1995,10,,17,2,12,3
+sonoma,kendall jackson,8/9/1995,0,,8,2,5,63
+sonoma,kendall jackson,8/16/1995,20,,5,2,8,6
+sonoma,kendall jackson,8/25/1995,0,,3,3,10,9
+sonoma,kendall jackson,9/1/1995,0,,3,1,8,8
+sonoma,kendall jackson,9/15/1995,0,,2,2,38,4
+sonoma,vyborny_sonoma,6/26/1995,0,,0,0,0,0
+sonoma,vyborny_sonoma,7/3/1995,20,,0,0,0,0
+sonoma,vyborny_sonoma,7/11/1995,20,,0,0,0,0
+sonoma,vyborny_sonoma,7/18/1995,40,,31,1,0,0
+sonoma,vyborny_sonoma,7/26/1995,0,,2,1,0,0
+sonoma,vyborny_sonoma,8/1/1995,0,,18,1,0,0
+sonoma,vyborny_sonoma,8/8/1995,0,,3,1,0,0
+sonoma,vyborny_sonoma,8/15/1995,0,,5,1,0,0
+sonoma,vyborny_sonoma,8/22/1995,0,,3,1,0,0
+sonoma,vyborny_sonoma,8/29/1995,20,,0,0,0,0
+sonoma,vyborny_sonoma,9/12/1995,10,,0,0,0,0
+napa,domaine chandon mt veeder,4/11/1995,0,,0,0,0,0
+napa,domaine chandon mt veeder,4/18/1995,0,,0,0,0,0
+napa,domaine chandon mt veeder,4/25/1995,60,,0,0,0,0
+napa,domaine chandon mt veeder,5/2/1995,0,,0,0,0,0
+napa,domaine chandon mt veeder,5/11/1995,0,,0,0,2,5
+napa,domaine chandon mt veeder,5/16/1995,0,,0,0,2,5
+napa,domaine chandon mt veeder,5/23/1995,10,,0,0,0,1
+napa,domaine chandon mt veeder,5/30/1995,90,,0,0,0,0
+napa,domaine chandon mt veeder,6/6/1995,90,,0,0,0,0
+napa,domaine chandon mt veeder,6/12/1995,100,,0,0,0,1
+napa,domaine chandon mt veeder,6/20/1995,70,,0,0,0,0
+napa,domaine chandon mt veeder,6/26/1995,100,,0,0,0,0
+napa,domaine chandon mt veeder,7/3/1995,100,,0,0,0,0
+napa,domaine chandon mt veeder,7/11/1995,100,,0,0,0,0
+napa,domaine chandon mt veeder,7/18/1995,80,,0,0,0,0
+napa,domaine chandon mt veeder,7/24/1995,100,,0,0,0,0
+napa,domaine chandon mt veeder,7/31/1995,100,,14,2,4,1
+napa,domaine chandon mt veeder,8/14/1995,100,,9,2,0,0
+napa,domaine chandon mt veeder,8/23/1995,70,,3,1,0,0
+napa,domaine chandon mt veeder,8/29/1995,100,,15,4,0,0
+napa,domaine chandon mt veeder,9/5/1995,100,,19,11,3,1
+napa,domaine chandon mt veeder,9/12/1995,90,,3,2,0,0
+napa,gemstone yountville,6/8/1995,100,,6,1,0,0
+napa,gemstone yountville,6/14/1995,90,,3,1,0,0
+napa,gemstone yountville,6/20/1995,90,,13,2,0,0
+napa,gemstone yountville,6/27/1995,20,,6,1,0,0
+napa,gemstone yountville,7/5/1995,90,,3,1,3,1
+napa,gemstone yountville,7/11/1995,60,,0,0,0,0
+napa,gemstone yountville,7/18/1995,100,,10,1,0,0
+napa,gemstone yountville,7/26/1995,100,,6,1,0,0
+napa,gemstone yountville,8/1/1995,40,,9,3,0,0
+napa,gemstone yountville,8/8/1995,0,,0,0,0,0
+napa,gemstone yountville,8/15/1995,0,,0,0,0,0
+napa,gemstone yountville,8/23/1995,10,,0,0,0,0
+napa,gemstone yountville,8/29/1995,40,,0,0,0,0
+napa,gemstone yountville,9/6/1995,0,,0,0,6,3
+napa,gemstone yountville,9/14/1995,90,,0,0,0,0
+napa,gemstone yountville,9/20/1995,70,,0,0,4,10
+napa,vyborny_napa,5/11/1995,,,10,1,0,
+napa,vyborny_napa,6/1/1995,0,,5,1,3,10
+napa,vyborny_napa,6/8/1995,100,,9,3,0,
+napa,vyborny_napa,6/15/1995,90,,23,2,0,
+napa,vyborny_napa,6/22/1995,90,,14,1,10,2
+napa,vyborny_napa,6/29/1995,100,,5,8,0,
+napa,vyborny_napa,7/7/1995,90,,0,,0,
+napa,vyborny_napa,7/13/1995,100,,18,17,0,
+napa,hudson,3/26/1995,0,,0,0,0,0
+napa,hudson,4/3/1995,20,,0,0,0,0
+napa,hudson,4/11/1995,0,,0,0,0,0
+napa,hudson,4/17/1995,0,,0,0,0,0
+napa,hudson,4/24/1995,40,,0,0,0,0
+napa,hudson,5/1/1995,0,,0,0,0,0
+napa,hudson,5/8/1995,0,,0,0,0,0
+napa,hudson,5/15/1995,0,,0,0,0,0
+napa,hudson,5/22/1995,0,,3,1,0,1
+napa,hudson,5/29/1995,40,,0,0,0,0
+napa,hudson,6/5/1995,90,,0,0,0,0
+napa,hudson,6/12/1995,100,,1,34,0,0
+napa,hudson,6/19/1995,50,,0,0,0,0
+napa,hudson,6/26/1995,40,,0,0,0,0
+napa,hudson,7/3/1995,100,,0,0,0,0
+napa,hudson,7/10/1995,100,,3,1,0,0
+napa,hudson,7/17/1995,60,,6,2,0,0
+napa,hudson,7/24/1995,100,,16,2,0,0
+napa,hudson,7/31/1995,50,,14,10,5,0
+napa,hudson,8/7/1995,40,,6,29,14,0
+napa,hudson,8/14/1995,30,,9,6,3,10
+napa,hudson,8/21/1995,50,,3,0,0,0
+napa,hudson,8/27/1995,80,,0,0,0,0
+napa,hudson,9/4/1995,100,,3,1,29,6
+napa,hudson,9/12/1995,90,,0,0,29,13
+napa,truchard 2,5/10/1995,0,,6,1,7,1
+napa,truchard 2,5/15/1995,0,,5,1,0,
+napa,truchard 2,5/22/1995,0,,0,,0,
+napa,truchard 2,5/30/1995,50,,7,2,0,1
+napa,truchard 2,6/5/1995,100,,6,1,0,
+napa,truchard 2,6/12/1995,100,,2,2,0,
+napa,truchard 2,6/19/1995,50,,9,2,0,
+napa,truchard 2,6/26/1995,10,,9,5,0,
+napa,truchard 2,7/3/1995,100,,11,30,8,3
+napa,truchard 2,7/10/1995,100,,22,4,10,11
+napa,truchard 2,7/18/1995,80,,30,10,4,6
+napa,truchard 2,7/24/1995,100,,24,17,11,3
+napa,truchard 2,7/31/1995,50,,38,24,12,5
+napa,truchard 2,8/7/1995,70,,36,38,3,1
+napa,truchard 2,8/15/1995,70,,10,4,2,10
+napa,truchard 2,8/21/1995,70,,12,37,2,1
+napa,truchard 2,8/28/1995,100,,8,61,2,10
+napa,truchard 2,9/5/1995,90,,4,60,21,10
+napa,truchard 2,9/12/1995,90,,0,0,1,7
+napa,kirkland,4/12/1995,0,,0,0,0,0
+napa,kirkland,4/17/1995,0,,0,0,0,0
+napa,kirkland,4/24/1995,40,,0,0,0,0
+napa,kirkland,5/1/1995,0,,0,0,0,0
+napa,kirkland,5/8/1995,0,,0,0,0,0
+napa,kirkland,5/16/1995,0,,0,0,0,0
+napa,kirkland,5/22/1995,20,,0,0,0,1
+napa,kirkland,5/30/1995,40,,0,0,0,0
+napa,kirkland,6/5/1995,70,,0,0,0,0
+napa,kirkland,6/12/1995,100,,0,0,0,0
+napa,kirkland,6/19/1995,50,,10,1,0,0
+napa,kirkland,6/26/1995,40,,0,0,0,0
+napa,kirkland,7/5/1995,100,,0,0,0,0
+napa,kirkland,7/10/1995,100,,5,4,5,1
+napa,kirkland,7/17/1995,60,,25,0,0,0
+napa,kirkland,7/24/1995,100,,15,4,0,0
+napa,kirkland,7/31/1995,90,,30,12,0,0
+napa,kirkland,8/7/1995,100,,50,20,0,0
+napa,kirkland,8/14/1995,80,,40,26,0,0
+napa,kirkland,8/21/1995,70,,30,17,0,0
+napa,kirkland,8/28/1995,100,,25,27,0,0
+napa,kirkland,9/5/1995,90,,10,24,5,10
+napa,kirkland,9/12/1995,100,,13,21,0,0
+napa,kirkland,9/18/1995,90,,25,13,55,9
+napa,kirkland,9/25/1995,100,,30,13,50,22
+napa,kirkland,10/3/1995,70,,0,0,65,25
+napa,kirkland,10/11/1995,90,,5,5,50,25
+napa,shifflet,4/20/1995,0,,0,,0,0
+napa,shifflet,4/27/1995,60,,0,,0,0
+napa,shifflet,5/4/1995,0,,0,,0,0
+napa,shifflet,5/11/1995,0,,0,,0,0
+napa,shifflet,5/18/1995,10,,0,,0,0
+napa,shifflet,5/25/1995,30,,23,1,0,0
+napa,shifflet,6/1/1995,90,,17,3,0,0
+napa,shifflet,6/8/1995,100,,5,12,0,0
+napa,shifflet,6/15/1995,90,,59,4,0,0
+napa,shifflet,6/22/1995,80,,83,1,0,0
+napa,shifflet,6/28/1995,80,,13,1,0,0
+napa,shifflet,7/6/1995,90,,17,2,0,0
+napa,shifflet,7/13/1995,100,,20,12,0,0
+napa,shifflet,7/19/1995,70,,0,0,0,0
+napa,shifflet,8/2/1995,30,,10,17,0,0
+napa,shifflet,8/11/1995,0,,0,0,0,0
+napa,shifflet,8/17/1995,40,,0,0,0,0
+napa,shifflet,8/24/1995,30,,0,0,0,0
+napa,shifflet,8/31/1995,20,,0,0,0,0
+napa,shifflet,9/7/1995,0,,0,0,0,0
+napa,shifflet,9/14/1995,60,,0,0,0,0
+napa,shifflet,9/21/1995,60,,0,0,0,0
+napa,shifflet,9/28/1995,100,,0,0,0,0
+napa,shifflet,10/6/1995,90,,0,0,0,0
+napa,uc oakville,3/26/1995,0,,0,0,0,0
+napa,uc oakville,4/6/1995,50,,0,0,0,0
+napa,uc oakville,4/14/1995,0,,0,0,0,0
+napa,uc oakville,4/20/1995,0,,0,0,0,0
+napa,uc oakville,4/26/1995,40,,0,0,0,0
+napa,uc oakville,5/3/1995,0,,0,0,0,0
+napa,uc oakville,5/10/1995,0,,0,0,14,0
+napa,uc oakville,5/18/1995,10,,0,0,0,0
+napa,uc oakville,5/23/1995,0,,0,0,0,0
+napa,uc oakville,6/1/1995,30,,0,0,0,0
+napa,uc oakville,6/9/1995,100,,0,0,0,0
+napa,uc oakville,6/14/1995,80,,0,0,0,0
+napa,uc oakville,6/22/1995,30,,0,0,0,0
+napa,uc oakville,6/28/1995,20,,0,0,0,0
+napa,uc oakville,7/6/1995,60,,0,0,0,0
+napa,uc oakville,7/12/1995,60,,10,1,0,0
+napa,uc oakville,7/19/1995,50,,19,2,0,0
+napa,uc oakville,7/27/1995,30,,38,1,0,0
+napa,uc oakville,8/2/1995,0,,14,2,0,0
+napa,uc oakville,8/10/1995,0,,19,2,0,0
+napa,uc oakville,8/17/1995,40,,5,10,0,0
+napa,uc oakville,8/24/1995,0,,0,0,0,0
+napa,uc oakville,8/31/1995,0,,0,0,0,0
+napa,uc oakville,9/7/1995,0,,0,0,0,0
+napa,uc oakville,9/14/1995,40,,0,0,0,0
+napa,uc oakville,9/21/1995,30,,0,0,0,0
+napa,uc oakville,9/27/1995,90,,5,1,0,0
+napa,uc oakville,10/5/1995,70,,0,0,0,0
+napa,uc oakville,10/11/1995,40,,14,1,0,0
+napa,mondavi creekside,4/12/1995,0,,0,,0,
+napa,mondavi creekside,4/17/1995,0,,0,,0,
+napa,mondavi creekside,4/24/1995,40,,0,,0,
+napa,mondavi creekside,5/1/1995,0,,0,,11,1
+napa,mondavi creekside,5/10/1995,0,,0,,0,
+napa,mondavi creekside,5/15/1995,0,,0,,0,
+napa,mondavi creekside,5/22/1995,0,,0,,0,1
+napa,mondavi creekside,5/29/1995,40,,0,,0,
+napa,mondavi creekside,6/5/1995,90,,0,,0,
+napa,mondavi creekside,6/12/1995,100,,0,0,0,0
+napa,mondavi creekside,6/19/1995,50,,0,1,0,
+napa,mondavi creekside,6/26/1995,10,,0,0,0,0
+napa,mondavi creekside,7/3/1995,100,,0,,0,
+napa,mondavi creekside,7/10/1995,100,,30,2,15,1
+napa,mondavi creekside,7/17/1995,60,,5,10,10,1
+napa,mondavi creekside,7/24/1995,100,,30,2,25,5
+napa,mondavi creekside,7/31/1995,50,,40,6,35,5
+napa,mondavi creekside,8/7/1995,100,,30,11,45,8
+napa,mondavi creekside,8/14/1995,80,,35,5,35,11
+napa,mondavi creekside,8/21/1995,70,,35,18,15,10
+napa,mondavi creekside,8/28/1995,100,,20,46,25,13
+napa,mondavi creekside,9/5/1995,100,,30,33,80,8
+napa,mondavi creekside,9/12/1995,100,,10,43,45,12
+napa,mondavi creekside,9/18/1995,90,,10,23,0,14
+napa,mondavi creekside,9/25/1995,100,,0,0,85,14
+napa,mondavi creekside,10/3/1995,70,,35,23,80,28
+napa,sterling calistoga,3/27/1995,0,,0,0,0,0
+napa,sterling calistoga,4/5/1995,60,,0,0,0,0
+napa,sterling calistoga,4/12/1995,20,,0,0,0,0
+napa,sterling calistoga,4/19/1995,0,,0,,0,0
+napa,sterling calistoga,4/26/1995,50,,0,,0,0
+napa,sterling calistoga,5/3/1995,0,,0,,0,0
+napa,sterling calistoga,5/10/1995,0,,0,0,17,1
+napa,sterling calistoga,5/16/1995,0,,0,0,0,0
+napa,sterling calistoga,5/24/1995,40,,0,0,0,1
+napa,sterling calistoga,5/31/1995,60,,0,0,0,0
+napa,sterling calistoga,6/7/1995,100,,0,0,0,0
+napa,sterling calistoga,6/14/1995,60,,0,0,0,0
+napa,sterling calistoga,6/21/1995,50,,0,0,0,0
+napa,sterling calistoga,6/28/1995,0,,0,0,0,0
+napa,sterling calistoga,7/6/1995,0,,0,0,0,0
+napa,sterling calistoga,7/12/1995,30,,0,0,0,0
+napa,sterling calistoga,7/19/1995,10,,0,0,0,0
+napa,sterling calistoga,7/26/1995,0,,10,1,5,1
+napa,sterling calistoga,8/2/1995,0,,0,0,0,0
+napa,sterling calistoga,8/10/1995,0,,0,0,0,0
+napa,sterling calistoga,8/16/1995,0,,0,0,0,0
+napa,sterling calistoga,8/22/1995,0,,0,0,0,0
+napa,sterling calistoga,8/30/1995,0,,0,0,0,0
+napa,sterling calistoga,9/6/1995,0,,0,0,50,9
+napa,sterling calistoga,9/13/1995,0,,0,0,60,15
+napa,walsh,4/20/1995,0,,0,,0,
+napa,walsh,4/27/1995,90,,0,,0,
+napa,walsh,5/4/1995,90,,0,,1,1
+napa,walsh,5/11/1995,80,,0,,0,
+napa,walsh,5/18/1995,70,,0,,0,
+napa,walsh,5/25/1995,100,,0,,0,
+napa,walsh,6/1/1995,60,,0,,0,
+napa,walsh,6/8/1995,100,,0,,0,
+napa,walsh,6/15/1995,90,,0,1,0,
+napa,walsh,6/22/1995,50,,0,,0,
+napa,walsh,6/29/1995,40,,0,,0,
+napa,walsh,7/7/1995,90,,0,,0,
+napa,walsh,7/13/1995,100,,0,,0,0
+napa,walsh,7/20/1995,100,,0,,0,0
+napa,walsh,7/21/1995,100,,,,,
+napa,walsh,7/28/1995,80,,0,,0,0
+napa,walsh,8/4/1995,10,,0,0,0,0
+napa,walsh,8/11/1995,60,,0,0,0,0
+napa,walsh,8/17/1995,90,,6,3,0,0
+napa,walsh,8/24/1995,70,,0,0,0,0
+napa,walsh,8/31/1995,100,,0,0,0,0
+napa,walsh,9/7/1995,70,,0,0,6,0
+napa,baritelle,3/26/1995,0,,0,0,0,0
+napa,baritelle,4/5/1995,60,,0,0,0,0
+napa,baritelle,4/12/1995,80,,0,0,0,0
+napa,baritelle,4/20/1995,0,,0,0,0,0
+napa,baritelle,4/26/1995,20,,0,0,0,0
+napa,baritelle,5/3/1995,20,,0,0,0,0
+napa,baritelle,5/10/1995,0,,0,0,0,0
+napa,baritelle,5/17/1995,20,,0,0,0,0
+napa,baritelle,5/24/1995,100,,0,0,0,0
+napa,baritelle,5/31/1995,70,,0,0,0,0
+napa,baritelle,6/7/1995,100,,0,0,0,0
+napa,baritelle,6/14/1995,60,,8,1,0,1
+napa,baritelle,6/21/1995,20,,3,1,1,0
+napa,baritelle,6/28/1995,0,90,5,1,0,0
+napa,baritelle,7/6/1995,50,,3,1,0,0
+napa,baritelle,7/13/1995,40,,25,1,0,0
+napa,baritelle,7/19/1995,10,,43,1,0,0
+napa,baritelle,7/26/1995,0,,40,7,0,0
+napa,baritelle,8/2/1995,0,,35,2,0,0
+napa,baritelle,8/10/1995,0,,20,2,0,0
+napa,baritelle,8/17/1995,40,,13,2,0,0
+napa,baritelle,8/23/1995,10,,8,4,0,0
+napa,baritelle,8/31/1995,20,,0,0,0,0
+napa,baritelle,9/6/1995,20,,3,1,0,0
+napa,baritelle,9/13/1995,40,,0,0,0,0
+napa,baritelle,9/20/1995,70,,5,4,0,0
+napa,baritelle,9/26/1995,100,,3,1,0,0
+napa,baritelle,10/12/1995,100,,20,7,0,0
+napa,baritelle,10/18/1995,,,30,8,0,0
+napa,steltzner,3/28/1995,0,,0,0,0,0
+napa,steltzner,4/4/1995,80,,0,0,0,0
+napa,steltzner,4/12/1995,30,,0,0,0,0
+napa,steltzner,4/18/1995,0,,0,0,0,0
+napa,steltzner,4/25/1995,80,,0,0,0,0
+napa,steltzner,5/2/1995,10,,0,0,0,0
+napa,steltzner,5/9/1995,0,90,0,0,0,0
+napa,steltzner,5/14/1995,0,,0,0,0,0
+napa,steltzner,5/23/1995,20,,6,2,0,0
+napa,steltzner,5/30/1995,100,,8,1,0,0
+napa,steltzner,6/6/1995,90,,25,2,0,0
+napa,steltzner,6/13/1995,100,,4,7,0,0
+napa,steltzner,6/20/1995,70,,37,4,0,0
+napa,steltzner,6/27/1995,0,,70,4,0,0
+napa,steltzner,7/3/1995,90,,41,7,0,0
+napa,steltzner,7/11/1995,90,,49,7,0,0
+napa,steltzner,7/18/1995,80,,61,8,0,0
+napa,steltzner,7/25/1995,70,,2,12,0,0
+napa,steltzner,8/1/1995,30,,56,27,0,0
+napa,steltzner,8/8/1995,0,,4,3,0,0
+napa,steltzner,8/15/1995,0,,19,14,0,0
+napa,steltzner,8/23/1995,,,11,18,3,20
+napa,steltzner,8/29/1995,,,0,0,0,0
+napa,steltzner,9/6/1995,,,19,20,0,0
+napa,steltzner,9/13/1995,,,0,0,0,0
+napa,steltzner,9/25/1995,,,4,25,0,0
+napa,steltzner,10/3/1995,,,0,0,0,0
+napa,steltzner,10/11/1995,,,0,0,0,0
+napa,cain,4/19/1995,0,,0,0,0,0
+napa,cain,4/26/1995,0,,0,0,0,0
+napa,cain,5/3/1995,0,,0,0,0,0
+napa,cain,5/10/1995,0,,0,0,19,2
+napa,cain,5/16/1995,0,,0,0,1,1
+napa,cain,5/24/1995,20,,0,0,0,1
+napa,cain,5/31/1995,80,,0,0,0,0
+napa,cain,6/7/1995,70,,0,0,0,0
+napa,cain,6/14/1995,90,,3,7,0,0
+napa,cain,6/21/1995,50,,8,1,0,0
+napa,cain,6/28/1995,100,,3,1,0,0
+napa,cain,7/6/1995,80,,0,0,0,0
+napa,cain,7/12/1995,100,,4,1,0,0
+napa,cain,7/19/1995,100,,0,0,0,0
+napa,cain,7/26/1995,100,,7,2,0,0
+napa,cain,8/2/1995,70,,18,2,0,0
+napa,cain,8/15/1995,90,,24,2,0,0
+napa,cain,8/23/1995,50,,6,5,0,0
+napa,cain,8/30/1995,90,,4,1,0,0
+napa,cain,9/6/1995,80,,0,0,0,0
+napa,cain,9/13/1995,70,,0,0,0,0
+napa,cain,9/20/1995,100,,0,0,0,0
+napa,cain,9/27/1995,100,,0,0,0,0
+napa,cain,10/12/1995,90,,0,0,0,0
+napa,mondavi oak knoll,3/27/1995,0,,0,0,0,0
+napa,mondavi oak knoll,4/4/1995,80,,0,0,0,0
+napa,mondavi oak knoll,4/11/1995,10,,0,0,0,0
+napa,mondavi oak knoll,4/18/1995,0,,0,0,0,0
+napa,mondavi oak knoll,4/25/1995,60,,0,0,0,0
+napa,mondavi oak knoll,5/2/1995,0,,0,0,0,0
+napa,mondavi oak knoll,5/9/1995,0,90,0,0,3,1
+napa,mondavi oak knoll,5/12/1995,0,90,,,,
+napa,mondavi oak knoll,5/17/1995,20,,0,0,0,1
+napa,mondavi oak knoll,5/23/1995,0,,0,0,0,1
+napa,mondavi oak knoll,5/30/1995,80,,3,1,0,0
+napa,mondavi oak knoll,6/6/1995,100,,0,0,0,0
+napa,mondavi oak knoll,6/13/1995,90,,0,0,0,0
+napa,mondavi oak knoll,6/21/1995,40,,5,5,0,0
+napa,mondavi oak knoll,6/27/1995,0,,5,1,0,0
+napa,mondavi oak knoll,7/5/1995,90,,3,,0,0
+napa,mondavi oak knoll,7/11/1995,60,,15,2,0,0
+napa,mondavi oak knoll,7/18/1995,80,,3,5,0,0
+napa,mondavi oak knoll,7/25/1995,10,,10,6,3,10
+napa,mondavi oak knoll,8/1/1995,0,,13,5,10,2
+napa,mondavi oak knoll,8/8/1995,0,,3,7,3,1
+napa,mondavi oak knoll,8/15/1995,0,,3,1,0,0
+napa,mondavi oak knoll,8/23/1995,0,,0,0,0,0
+napa,mondavi oak knoll,8/29/1995,10,,0,0,3,2
+napa,mondavi oak knoll,9/6/1995,0,,0,0,95,31
+napa,beringer stanley ranch,3/27/1995,0,,0,0,0,0
+napa,beringer stanley ranch,4/4/1995,50,,0,0,0,0
+napa,beringer stanley ranch,4/11/1995,0,,0,0,0,0
+napa,beringer stanley ranch,4/18/1995,0,,0,0,0,0
+napa,beringer stanley ranch,4/24/1995,60,,0,0,0,0
+napa,beringer stanley ranch,5/1/1995,0,,0,0,0,0
+napa,beringer stanley ranch,5/8/1995,0,,0,0,0,0
+napa,beringer stanley ranch,5/15/1995,0,,0,0,3,1
+napa,beringer stanley ranch,5/22/1995,30,,0,0,3,1
+napa,beringer stanley ranch,5/29/1995,40,,0,0,0,0
+napa,beringer stanley ranch,6/5/1995,100,,0,0,0,0
+napa,beringer stanley ranch,6/12/1995,100,,0,0,0,0
+napa,beringer stanley ranch,6/20/1995,70,,0,0,0,0
+napa,beringer stanley ranch,6/27/1995,30,,0,0,0,0
+napa,beringer stanley ranch,7/3/1995,100,,0,0,0,0
+napa,beringer stanley ranch,7/10/1995,100,,0,0,0,0
+napa,beringer stanley ranch,7/18/1995,100,,0,0,3,1
+napa,beringer stanley ranch,7/24/1995,100,,0,0,0,0
+napa,beringer stanley ranch,8/1/1995,80,,0,0,0,0
+napa,beringer stanley ranch,8/7/1995,100,,0,0,0,0
+napa,beringer stanley ranch,8/14/1995,80,,0,0,0,0
+napa,beringer stanley ranch,8/21/1995,100,,0,0,0,0
+napa,beringer stanley ranch,8/27/1995,100,,0,0,0,0
+napa,beringer stanley ranch,9/5/1995,100,,0,0,15,15
+napa,beringer stanley ranch,9/12/1995,100,,0,0,25,24
+napa,beringer stanley ranch,9/18/1995,100,,0,0,48,26
+napa,beringer stanley ranch,9/25/1995,100,,0,0,48,23
+napa,beringer stanley ranch,10/3/1995,80,,0,0,43,31
+napa,wilsey,3/29/1995,0,,0,0,0,0
+napa,wilsey,4/5/1995,60,,0,0,0,0
+napa,wilsey,4/12/1995,20,,0,0,0,0
+napa,wilsey,4/20/1995,0,,0,0,0,0
+napa,wilsey,4/26/1995,70,,0,0,0,0
+napa,wilsey,5/5/1995,0,,0,0,0,0
+napa,wilsey,5/10/1995,0,,0,0,0,0
+napa,wilsey,5/17/1995,20,,0,0,0,0
+napa,wilsey,5/31/1995,90,,3,1,0,0
+napa,wilsey,6/7/1995,100,,0,0,0,0
+napa,wilsey,6/14/1995,80,,1,2,0,0
+napa,wilsey,6/21/1995,70,,11,3,0,0
+napa,wilsey,6/28/1995,30,,0,0,0,0
+napa,wilsey,7/5/1995,90,,0,0,0,0
+napa,wilsey,7/12/1995,80,,22,2,0,0
+napa,wilsey,7/19/1995,80,,25,2,0,0
+napa,wilsey,7/26/1995,40,,17,1,0,0
+napa,wilsey,8/2/1995,0,,17,3,0,0
+napa,wilsey,8/10/1995,0,,17,2,0,0
+napa,wilsey,8/17/1995,40,,0,0,0,0
+napa,wilsey,8/23/1995,10,,3,1,0,0
+napa,wilsey,8/31/1995,20,,0,0,0,0
+napa,wilsey,9/7/1995,0,,0,0,0,0
+napa,wilsey,9/14/1995,40,,0,0,0,0
+napa,wilsey,9/21/1995,60,,0,0,0,0
+napa,wilsey,9/26/1995,100,,6,2,0,0
+napa,wilsey,10/5/1995,70,,0,0,0,0
